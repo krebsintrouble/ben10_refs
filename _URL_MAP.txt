@@ -1,0 +1,166 @@
+CHARACTER REFERENCE URL MAP
+================================================================
+Paste the Discord/Imgur URL after each "URL:" line.
+The URL must end in .png / .jpg / .jpeg / .webp — if it ends
+in anything else it's a page link, not a direct image link.
+
+HOW TO GET A DISCORD URL
+1. Open a DM to yourself (or to the Midjourney bot).
+2. Drag the image in.
+3. Right-click the uploaded image -> Copy Link.
+4. Paste it here.
+5. Repeat for all 24.
+
+MASTER STYLE REFERENCE ( --sref )
+Pick one clean on-model sheet to use as the art-style anchor on
+EVERY frame. Recommended: 11yo Ben in empire uniform (OS style
+scenes) and 15yo Ben AF empire (AF style scenes).
+
+
+================================================================
+01_Ben_human/
+================================================================
+
+folder: 01_baby
+URL:
+
+folder: 03_4yo
+URL:
+
+folder: 04_5yo
+URL:
+
+folder: 05_7yo
+URL:
+
+folder: 06_8yo
+URL:
+
+folder: 08_10yo_empire
+URL:
+
+folder: 09_11yo_empire                        <-- master OS --sref candidate
+URL:
+
+folder: 11_15yo_AF_empire                     <-- master AF --sref candidate
+URL:
+
+folder: 13_10yo_canon
+URL:
+
+folder: 14_15yo_canon
+URL:
+
+
+================================================================
+02_Ben_aliens/
+================================================================
+
+folder: 01_Heatblast
+URL:
+
+folder: 02_FourArms
+URL:
+
+folder: 03_Diamondhead
+URL:
+
+folder: 04_XLR8
+URL:
+
+folder: 05_Ghostfreak
+URL:
+
+folder: 06_WayBig
+URL:
+
+
+================================================================
+03_Vilgax/
+================================================================
+
+folder: 01_standard_OS
+URL:
+
+folder: 06_peak_power
+URL:
+
+
+================================================================
+04_Psyphon/
+================================================================
+
+folder: 01_OS
+URL:
+
+
+================================================================
+05_Max/
+================================================================
+
+folder: 01_OS_civilian
+URL:
+
+
+================================================================
+06_Gwen/
+================================================================
+
+folder: 01_11yo
+URL:
+
+folder: 02_15yo
+URL:
+
+
+================================================================
+07_Kevin/
+================================================================
+
+folder: 03_11yo_empire_adopted
+URL:
+
+folder: 06_16yo_AF_empire
+URL:
+
+
+================================================================
+STYLE REFERENCES ( --sref master anchors )
+================================================================
+These are the same URLs as above but labeled for use as --sref
+on scene prompts. Fill these in by copy-pasting from the Ben
+entries above once you have them.
+
+OS_style_anchor (use on all original-series era frames):
+URL:   (paste same URL as 09_11yo_empire)
+
+AF_style_anchor (use on all Alien Force era frames):
+URL:   (paste same URL as 11_15yo_AF_empire)
+
+
+================================================================
+QUICK PROMPT TEMPLATE
+================================================================
+When you have all URLs filled in, your scene prompts will look
+like this (for a scene with Ben + Vilgax in OS style):
+
+/imagine prompt: [scene description with character names, actions,
+setting, mood, lighting, camera angle from your original prompt
+file] --cref URL_Ben_age URL_Vilgax --sref URL_OS_style_anchor
+--cw 100 --ar 16:9 --v 6
+
+Key flags:
+  --cref     character reference URL(s), space-separated
+  --sref     style reference URL
+  --cw 100   max character weight (face + hair + outfit)
+  --cw 0     face only (use for alien-form scenes)
+  --ar 16:9  widescreen (matches your original prompts)
+  --v 6      Midjourney v6 (or --v 7 if available)
+
+
+================================================================
+NEXT STEP
+================================================================
+Fill in all 24 URLs above, then ping me. I'll rewrite your 330
+scene prompts in B1_part_1/2/3.txt to plug in the correct --cref
+and --sref URLs for each frame based on which characters appear.

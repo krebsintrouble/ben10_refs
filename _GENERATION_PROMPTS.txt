@@ -1,0 +1,174 @@
+GOOGLE FLOW — CHARACTER REFERENCE SHEET PROMPTS
+================================================================
+Main cast only — 24 locked variants covering ~95% of the 330 scene
+prompts. Side characters are handled by in-prompt description.
+
+HOW TO USE
+- Open Google Flow in IMAGE mode (not video).
+- Paste one prompt. Generate 3-4 variants. Pick the most on-model one.
+- Save the chosen image into the matching folder shown above each prompt.
+- Aspect ratio: 1:1 (square) for reference sheets.
+- If Flow drifts off-model, regenerate — do NOT accept a "close enough"
+  image. A sloppy reference will poison every Midjourney frame that
+  uses --cref against it.
+
+
+================================================================
+01_Ben_human/
+================================================================
+
+>>> SAVE TO: 01_Ben_human\01_baby\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, a human baby, roughly one year old, with wisps of soft brown hair and wide bright green eyes, pale skin, pudgy infant proportions, swaddled from the chest down in a plain pale cloth with only his head and one small hand visible, lying on his back facing the camera with a calm neutral expression, plain pale grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\03_4yo\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, a four-year-old boy with short brown hair and bright green eyes, pale skin, small-child proportions with a large head, standing facing the camera with arms slightly away from his sides, wearing a dark charcoal alien tunic with dull green trim and NO shoulder plating yet, dark alien boots, plain light grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\04_5yo\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, a five-year-old boy with short brown hair and bright green eyes, pale skin, small-child proportions, standing facing the camera with arms slightly away from his sides, wearing a dark charcoal alien training tunic with dull green trim and small empire shoulder plating, dark alien boots, plain light grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\05_7yo\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, a small seven-year-old boy with short brown hair and bright green eyes, pale skin, standing calmly facing the camera with arms slightly away from his sides, wearing a dark charcoal alien training tunic with dull green trim and empire shoulder plating, dark alien boots, plain light grey studio backdrop with no props and no shadows on the floor, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\06_8yo\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, an eight-year-old boy with short brown hair and bright green eyes, pale skin, slightly taller and leaner than a seven-year-old, standing calmly facing the camera with arms slightly away from his sides, wearing a dark charcoal alien training tunic with dull green trim and empire shoulder plating, dark alien boots, plain light grey studio backdrop with no props, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\08_10yo_empire\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, a ten-year-old boy with short brown hair and bright green eyes, pale skin, standing calmly facing the camera with arms slightly away from his sides, wearing a fitted dark charcoal empire uniform with dull green trim and empire shoulder plating, dark alien boots, the Omnitrix on his left wrist as a chunky black-and-white faceplate with a glowing green hourglass dial, plain light grey studio backdrop with no props, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\09_11yo_empire\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, an eleven-year-old boy with short brown hair and bright green eyes, pale skin, taller and leaner than a ten-year-old, standing calmly facing the camera with arms slightly away from his sides, wearing a fitted dark charcoal empire uniform with dull green trim and empire shoulder plating, dark alien boots, the Omnitrix on his left wrist as a chunky black-and-white faceplate with a glowing green hourglass dial, plain light grey studio backdrop with no props, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\11_15yo_AF_empire\
+
+A full-body character reference sheet in the official Ben 10: Alien Force (2008) Cartoon Network animated series art style with its sleeker detailed linework and more realistic teen proportions, a fifteen-year-old Ben Tennyson with short brown hair and green eyes, pale skin, lean athletic teen build, standing at ease facing the camera with arms slightly away from his sides, wearing dark high-collared Vilgax-empire warrior armour with dull green trim and heavy pauldrons, dark armoured trousers and boots, the Omnitrix on his left wrist as a chunky black-and-white faceplate with a glowing green hourglass dial, plain dark grey studio backdrop with no props, detailed clean black linework, flat cel-shaded fills, hard-edged angular shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\13_10yo_canon\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, canon ten-year-old Ben Tennyson with short brown hair and bright green eyes, pale skin, standing with a cocky relaxed posture facing the camera, wearing the canon white t-shirt with a horizontal green stripe across the chest and a black number "10" on the stripe, baggy brown cargo trousers, white and green sneakers, the Omnitrix on his left wrist as a chunky black-and-white faceplate with a glowing green hourglass dial, plain light grey studio backdrop with no props, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 01_Ben_human\14_15yo_canon\
+
+A full-body character reference sheet in the official Ben 10: Alien Force (2008) Cartoon Network animated series art style with its sleeker detailed linework and more realistic teen proportions, canon fifteen-year-old Ben Tennyson with short brown hair and green eyes, pale skin, lean athletic teen build, standing at ease facing the camera, wearing his canon green-and-black jacket with a black "10" on the left chest zipped halfway, a plain white t-shirt beneath, dark trousers and dark shoes, the Omnitrix on his left wrist as a chunky black-and-white faceplate with a glowing green hourglass dial, plain light grey studio backdrop with no props, detailed clean black linework, flat cel-shaded fills, hard-edged angular shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+================================================================
+02_Ben_aliens/
+================================================================
+
+>>> SAVE TO: 02_Ben_aliens\01_Heatblast\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, the alien Heatblast on-model as a Pyronite, a humanoid figure with a cracked rock-and-magma body of dark charcoal plates with glowing orange-red lava seams running between them, a head made of living orange-red flame with a yellow core, no visible eyes just flame shape, the green Omnitrix hourglass symbol on his chest, standing facing the camera with arms slightly away from his sides, plain dark grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 02_Ben_aliens\02_FourArms\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, the alien Four Arms on-model as a Tetramand, a massive hulking red-skinned humanoid with four heavily muscled arms, a black-plated jaw, four yellow eyes arranged in two pairs, a fitted dark empire uniform vest leaving the arms bare, dark trousers and boots, the green Omnitrix hourglass symbol centered on his chest, standing facing the camera with all four arms held slightly out to the sides, plain light grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 02_Ben_aliens\03_Diamondhead\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, the alien Diamondhead on-model as a Petrosapien, a tall humanoid figure made entirely of faceted translucent green crystal, angular blocky limbs with visible crystal facets along every surface, a crystalline head with four sharp back-swept shards for hair and glowing green eyes, dark empire-style trousers, the green Omnitrix hourglass symbol on his chest, standing facing the camera with arms slightly away from his sides, plain light grey studio backdrop, bold clean black outlines, flat cel-shaded fills with hard crystal highlights, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 02_Ben_aliens\04_XLR8\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, the alien XLR8 on-model as a Kineceleran, a lean blue-and-black raptor-like humanoid built for speed, a sleek black helmet-like head with a reflective full-face blue visor pulled down over the eyes, powerful digitigrade legs ending in single wheel-like feet, a long whip-like black tail, black racing stripes across the blue body, the green Omnitrix hourglass symbol on his chest, standing facing the camera in a ready crouch with arms slightly away from his sides, plain light grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 02_Ben_aliens\05_Ghostfreak\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, the alien Ghostfreak on-model as an Ectonurite, a pale grey-white ghostly humanoid figure with vertical black stripes running down a hanging shroud-like skin that hangs open at the front, a single large black-ringed eye floating freely in the center of his head, a second eye visible beneath the shroud, clawed grey-white hands, long trailing tendrils hanging from his lower body instead of legs so he hovers slightly off the floor, the green Omnitrix hourglass symbol on his chest, facing the camera with arms slightly raised to the sides, plain dark grey studio backdrop, bold clean black outlines, flat cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 02_Ben_aliens\06_WayBig\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, the alien Way Big on-model as a colossal To'kustar, a towering humanoid with a red, white and black cosmic body, white chest and limbs with red striping, a tall blade-like fin rising vertically from the top of his head, blade-like fins on his forearms, glowing green eyes, the green Omnitrix hourglass symbol on his chest, standing facing the camera with arms slightly away from his sides, plain pale grey studio backdrop with no horizon line and no city to show scale, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+================================================================
+03_Vilgax/
+================================================================
+
+>>> SAVE TO: 03_Vilgax\01_standard_OS\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, the warlord Vilgax on-model, a towering hulking humanoid with pale greenish-grey skin, squid-like facial tentacles covering his lower face and jaw, deep red glowing eyes under a heavy brow, heavy dark armoured chestplate with angular empire styling, massive armoured pauldrons, armoured gauntlets with clawed fingers, armoured boots, a long dark cape falling from the shoulders, standing facing the camera with arms slightly away from his sides and fists loose, plain dark grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 03_Vilgax\06_peak_power\
+
+A full-body character reference sheet in the official Ben 10: Alien Force (2008) Cartoon Network animated series art style with its sleeker detailed linework, the warlord Vilgax at peak power on-model, a vastly more imposing version of his standard form with a bulkier more intimidating frame, pale greenish-grey skin, squid-like facial tentacles over the lower face, deep red glowing eyes, heavy dark armoured chestplate and massive pauldrons, long dark cape, faint white-gold stolen-energy threads glowing along the knuckles and seams of the armour plating, standing facing the camera with arms slightly away from his sides, plain dark grey studio backdrop, detailed clean black linework, flat cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+================================================================
+04_Psyphon/
+================================================================
+
+>>> SAVE TO: 04_Psyphon\01_OS\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, Psyphon on-model, a gaunt and pale humanoid with a long narrow face, hollow cheeks, deep-set red eyes, slicked-back dark hair, tall and thin with a stiff formal posture, wearing a high-collared dark bodysuit that fits closely to his thin frame with dull grey trim at the collar and cuffs, dark gloves and boots, standing facing the camera with arms at his sides, plain dark grey studio backdrop, bold clean black outlines, flat cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+================================================================
+05_Max/
+================================================================
+
+>>> SAVE TO: 05_Max\01_OS_civilian\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, Max Tennyson on-model as Grandpa Max, a stocky broad-shouldered older man in his sixties with short grey hair and a thick grey mustache, warm pale skin, friendly steady expression, wearing a red button-up Hawaiian-style shirt with a simple pattern over a plain white t-shirt, dark green cargo trousers, sturdy brown boots, standing facing the camera at ease with arms slightly away from his sides, plain light grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+================================================================
+06_Gwen/
+================================================================
+
+>>> SAVE TO: 06_Gwen\01_11yo\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, an eleven-year-old girl Gwen Tennyson on-model, straight orange-red shoulder-length hair held back with a small blue hairclip above her left ear, bright green eyes, pale skin, confident alert expression, wearing a blue short-sleeved top with a black cat silhouette on the front, white three-quarter length trousers, white shoes, standing facing the camera at ease with arms slightly away from her sides, plain light grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 06_Gwen\02_15yo\
+
+A full-body character reference sheet in the official Ben 10: Alien Force (2008) Cartoon Network animated series art style with its sleeker detailed linework and more realistic teen proportions, a fifteen-year-old Gwen Tennyson on-model, long straight orange-red hair falling past her shoulders, bright green eyes, pale skin, calm confident expression, wearing a fitted blue three-quarter sleeved top with a white panel across the chest, slim-fit white trousers, dark flats, standing facing the camera at ease with arms slightly away from her sides, plain light grey studio backdrop, detailed clean black linework, flat cel-shaded fills, hard-edged angular shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+================================================================
+07_Kevin/
+================================================================
+
+>>> SAVE TO: 07_Kevin\03_11yo_empire_adopted\
+
+A full-body character reference sheet in the official Ben 10 (2005) Cartoon Network animated series art style, an eleven-year-old boy Kevin on-model, shaggy jet-black hair hanging over his eyes, pale skin, lean wiry build, a guarded wary expression, wearing a dark charcoal alien training tunic with dull green trim and empire shoulder plating matching Ben's uniform, dark trousers and alien boots, standing facing the camera at ease with arms slightly away from his sides, plain dark grey studio backdrop, bold clean black outlines, flat saturated cel-shaded fills, hard-edged shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+>>> SAVE TO: 07_Kevin\06_16yo_AF_empire\
+
+A full-body character reference sheet in the official Ben 10: Alien Force (2008) Cartoon Network animated series art style with its sleeker detailed linework and more realistic teen proportions, a sixteen-year-old Kevin Levin on-model, shaggy jet-black hair falling past his jaw and partially over his eyes, pale skin, lean athletic teen build, a guarded cool expression, wearing dark high-collared Vilgax-empire warrior gear with dull green trim and heavy pauldrons matching Ben's armour, dark armoured trousers and boots, standing facing the camera at ease with arms slightly away from his sides, plain dark grey studio backdrop, detailed clean black linework, flat cel-shaded fills, hard-edged angular shadow shapes, even flat front lighting, centered full-body composition, 1:1 square frame, no text, no watermark, no live-action look, no 3D render, no off-model proportions.
+
+
+================================================================
+NEXT STEPS
+================================================================
+When all 24 folders are filled with locked reference images, ping me
+and I will:
+1. Help you host the images (Discord/Imgur) to get --cref URLs
+2. Rewrite your 330 scene prompts to use --cref + --sref so Midjourney
+   stops drifting between frames.
+
+For one-off characters and variants, we will just describe them inline
+in each scene prompt — no --cref needed.
