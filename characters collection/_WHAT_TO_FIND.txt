@@ -1,0 +1,75 @@
+CHARACTER REFERENCE COLLECTION — trimmed main-cast list
+================================================================
+
+24 folders, one locked reference image per folder.
+These cover ~95% of the 330 scene prompts. Side characters and
+one-off variants are handled by in-prompt description instead of
+--cref, since they only appear in a handful of frames each.
+
+
+01_Ben_human/
+-------------
+01_baby                     Baby Ben, wisps of brown hair, green eyes, swaddled. OS.
+03_4yo                      4yo, short brown hair, green eyes, dark charcoal alien tunic w/ dull green trim (no shoulder plating). OS.
+04_5yo                      5yo, same tunic with small empire shoulder plating starting. OS.
+05_7yo                      6-7yo, dark charcoal training tunic w/ dull green trim AND empire shoulder plating. OS.
+06_8yo                      8yo, same training tunic kit. OS.
+08_10yo_empire              10yo, fitted dark charcoal empire uniform w/ dull green trim + shoulder plating, Omnitrix on left wrist. OS.
+09_11yo_empire              11yo, fitted dark charcoal empire uniform, taller/leaner, Omnitrix left wrist. OS.
+11_15yo_AF_empire           15yo, dark high-collared Vilgax-empire warrior armour w/ dull green trim + heavy pauldrons, Omnitrix left wrist. Alien Force style.
+13_10yo_canon               CANON 10yo Ben — white/green shirt w/ black "10", baggy brown trousers. OS.
+14_15yo_canon               CANON 15yo Ben — green-and-black jacket, dark trousers. AF.
+
+
+02_Ben_aliens/
+--------------
+01_Heatblast                Pyronite — cracked rock-and-magma body, head of living flame.
+02_FourArms                 Tetramand — massive red-skinned, four muscular arms.
+03_Diamondhead              Petrosapien — green crystalline, faceted angular limbs.
+04_XLR8                     Kineceleran — blue-and-black raptor-like, visor, long tail.
+05_Ghostfreak               Ectonurite — pale grey-white ghostly figure, black stripes, single black-ringed eye, trailing tendrils.
+06_WayBig                   To'kustar — colossal, red/white/black cosmic body, blade-like fins.
+
+
+03_Vilgax/
+----------
+01_standard_OS              Original-series Vilgax — squid-like facial tentacles, red eyes, heavy dark armour, long cape.
+06_peak_power               AF Vilgax at peak power — vastly more imposing frame, faint white-gold stolen-energy threads on knuckles/plating. (Also use for colossal-scale scenes.)
+
+
+04_Psyphon/
+-----------
+01_OS                       Gaunt, pale, long narrow face, tall and thin, high-collared dark bodysuit. (One sheet covers both OS and AF scenes.)
+
+
+05_Max/
+-------
+01_OS_civilian              Gray hair, gray mustache, broad-shouldered, practical casual/patterned shirt. (One sheet covers both OS and AF scenes.)
+
+
+06_Gwen/
+--------
+01_11yo                     11yo, orange-red hair w/ blue hairclip, green eyes, blue top, white trousers. OS.
+02_15yo                     15yo, long orange-red hair, green eyes, blue-and-white top, white trousers. AF.
+
+
+07_Kevin/
+---------
+03_11yo_empire_adopted      11yo, shaggy black hair, dark charcoal gear matching Ben. OS.
+06_16yo_AF_empire           16yo, shaggy black hair, lean teen build, dark empire gear. AF.
+
+
+================================================================
+WHAT COMES NEXT
+================================================================
+When all 24 folders are filled with locked reference images, ping me
+and I will:
+1. Help you host the images (Discord/Imgur) to get --cref URLs
+2. Rewrite your 330 scene prompts to use:
+   [CHARACTER_BLOCK] --cref URL --sref URL --cw 100
+   so Midjourney stops drifting between frames.
+
+For one-off characters (Carl, Sandra, Azmuth, SixSix, Kraab, Highbreed,
+DNAliens, Bioid, hooded assassin, rival warlord, battle-damaged variants,
+alternate transformations), we will just describe them inline in each
+scene prompt — no --cref needed.

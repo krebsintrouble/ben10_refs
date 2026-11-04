@@ -1,0 +1,170 @@
+CHARACTER REFERENCE URL MAP
+================================================================
+Hosted on: github.com/krebsintrouble/ben10_refs
+All URLs point to the "main" branch. If your repo default
+branch is "master", swap /main/ for /master/ in each URL.
+
+UPLOAD INSTRUCTION
+Drag the SUBFOLDERS (01_Ben_human, 02_Ben_aliens, 03_Vilgax,
+04_Psyphon, 05_Max, 06_Gwen, 07_Kevin) from the characters
+collection folder directly into the root of the repo. Do NOT
+upload the parent "characters collection" folder itself, or
+the URLs below will be wrong.
+
+
+================================================================
+01_Ben_human/
+================================================================
+
+folder: 01_baby
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/01_baby/ref.jpg
+
+folder: 03_4yo
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/03_4yo/ref.jpg
+
+folder: 04_5yo
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/04_5yo/ref.jpg
+
+folder: 05_7yo
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/05_7yo/ref.jpg
+
+folder: 06_8yo
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/06_8yo/ref.jpg
+
+folder: 08_10yo_empire
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/08_10yo_empire/ref.jpg
+
+folder: 09_11yo_empire                        <-- master OS --sref anchor
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/09_11yo_empire/ref.jpg
+
+folder: 11_15yo_AF_empire                     <-- master AF --sref anchor
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/11_15yo_AF_empire/ref.jpg
+
+folder: 13_10yo_canon
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/13_10yo_canon/ref.jpg
+
+folder: 14_15yo_canon
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/14_15yo_canon/ref.jpg
+
+
+================================================================
+02_Ben_aliens/
+================================================================
+
+folder: 01_Heatblast
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/02_Ben_aliens/01_Heatblast/ref.jpg
+
+folder: 02_FourArms
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/02_Ben_aliens/02_FourArms/ref.jpg
+
+folder: 03_Diamondhead
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/02_Ben_aliens/03_Diamondhead/ref.jpg
+
+folder: 04_XLR8
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/02_Ben_aliens/04_XLR8/ref.jpg
+
+folder: 05_Ghostfreak
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/02_Ben_aliens/05_Ghostfreak/ref.jpg
+
+folder: 06_WayBig
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/02_Ben_aliens/06_WayBig/ref.jpg
+
+
+================================================================
+03_Vilgax/
+================================================================
+
+folder: 01_standard_OS
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/03_Vilgax/01_standard_OS/ref.jpg
+
+folder: 06_peak_power
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/03_Vilgax/06_peak_power/ref.jpg
+
+
+================================================================
+04_Psyphon/
+================================================================
+
+folder: 01_OS
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/04_Psyphon/01_OS/ref.jpg
+
+
+================================================================
+05_Max/
+================================================================
+
+folder: 01_OS_civilian
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/05_Max/01_OS_civilian/ref.jpg
+
+
+================================================================
+06_Gwen/
+================================================================
+
+folder: 01_11yo
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/06_Gwen/01_11yo/ref.jpg
+
+folder: 02_15yo
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/06_Gwen/02_15yo/ref.jpg
+
+
+================================================================
+07_Kevin/
+================================================================
+
+folder: 03_11yo_empire_adopted
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/07_Kevin/03_11yo_empire_adopted/ref.jpg
+
+folder: 06_16yo_AF_empire
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/07_Kevin/06_16yo_AF_empire/ref.jpg
+
+
+================================================================
+STYLE REFERENCES ( --sref master anchors )
+================================================================
+
+OS_style_anchor (use on all original-series era frames):
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/09_11yo_empire/ref.jpg
+
+AF_style_anchor (use on all Alien Force era frames):
+URL: https://raw.githubusercontent.com/krebsintrouble/ben10_refs/main/01_Ben_human/11_15yo_AF_empire/ref.jpg
+
+
+================================================================
+QUICK PROMPT TEMPLATE
+================================================================
+For a scene with Ben + Vilgax in OS style:
+
+/imagine prompt: [scene description from your original prompt file]
+--cref <Ben_age_URL> <Vilgax_URL>
+--sref <OS_style_anchor_URL>
+--cw 100 --ar 16:9 --v 6
+
+Flags:
+  --cref     character reference URL(s), space-separated
+  --sref     style reference URL
+  --cw 100   max character weight (face + hair + outfit)
+  --cw 0     face only (use for alien-form scenes)
+  --ar 16:9  widescreen
+  --v 6      Midjourney v6 (or --v 7 if available)
+
+
+================================================================
+VERIFY BEFORE USING
+================================================================
+After uploading to GitHub, test ONE URL by pasting it into a
+browser. You should see the image load directly (no GitHub
+interface around it). If you see a 404 page, check:
+  1. Is the repo Public, not Private?
+  2. Is the branch really "main" and not "master"?
+  3. Did you upload folders to the ROOT of the repo (not
+     nested inside another "characters collection" folder)?
+
+
+================================================================
+NEXT STEP
+================================================================
+Once you confirm one URL loads in a browser, ping me. I'll
+rewrite your 330 scene prompts in B1_part_1/2/3.txt to plug
+the correct --cref and --sref URLs into each frame based on
+which characters appear.
